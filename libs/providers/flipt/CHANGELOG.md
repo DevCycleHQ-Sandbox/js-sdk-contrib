@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.2.0](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/compare/flipt-provider-v0.1.3...flipt-provider-v0.2.0) (2025-06-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* update OpenFeature SDK peer ([#798](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/798))
+
+### 🐛 Bug Fixes
+
+* **flipt:** return the correct default value when provided in Flipt ([#1052](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1052)) ([28bffa5](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/28bffa5f91278db0e1f4b4361d483403b626e2b9))
+
+
+### ✨ New Features
+
+* **flipt:** Add Flipt provider in openfeature-js ([#724](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/724)) ([6ec1b0e](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/6ec1b0e7c799a0c453e49ae2504a48f2b17c6aa7))
+* update OpenFeature SDK peer ([#798](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/798)) ([ebd16b9](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/ebd16b9630bcc6b253a7061a144e8d476cd8b586))
+
 ## [0.1.3](https://github.com/open-feature/js-sdk-contrib/compare/flipt-provider-v0.1.2...flipt-provider-v0.1.3) (2025-04-10)
 
 

@@ -1,5 +1,35 @@
 # Changelog
 
+## [2.0.0](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/compare/ofrep-core-v1.0.1...ofrep-core-v2.0.0) (2025-07-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* use native headers, optional query params ([#1003](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1003))
+
+### 🐛 Bug Fixes
+
+* fixes an issue where OFREP does not send content type headers ([#882](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/882)) ([b3289e5](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/b3289e5083e97946f4ab62a6f2f10bb1402e7a55))
+* improper inclusion of test deps ([#1220](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1220)) ([f5e3f1f](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/f5e3f1f3ceff8d82c5f2de9b44414f79c442d602))
+* OFREP http set headers ([f0dcf93](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/f0dcf93ce97d01b79854212919afe5eacd28c860))
+* OFREP web provider failing because of wrong fetch scope ([72c6f67](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/72c6f6739342bd35c40d7261c96f9ebf84352fbb))
+* Use request time to compute the retry after ([#846](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/846)) ([ddc2c90](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/ddc2c9042c82c9066415ce4f6243639ae94d20c5))
+
+
+### ✨ New Features
+
+* implement OFREP server provider ([#817](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/817)) ([5d9f5ff](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/5d9f5ffa3cebbf54f52f215ccf135edf3ab4cc87))
+* OFREP web provider ([#776](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/776)) ([9626ef4](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/9626ef43ae8f5252219b3a9bff51b83c4c5e6230))
+* **ofrep-core:** add abort timeout to fetch call ([#1200](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1200)) ([d88c5fe](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/d88c5fe11f676da796f1ff2b02cb7637d8720e5e))
+* **ofrep:** move error handling and result mapping to ofrep-core ([#822](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/822)) ([18e18fa](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/18e18fa5f113d064521165cf3a716913a814e8cc))
+* **ofrep:** moves base options to ofrep-core ([#834](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/834)) ([474059c](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/474059c207067e437a698a12582582d8b567aabf))
+* **ofrep:** ofrep core ([#795](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/795)) ([17e6d57](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/17e6d57e43280a73f8c5f30fddc0447a900e3c79))
+* **ofrep:** parse Retry-After header in OFREPApiTooManyRequestsError ([#841](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/841)) ([ba7aa3e](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/ba7aa3efbc5ffacc2008d4591b2a585df34cbd01))
+* **ofrep:** release ofrep core as 0.1.0-experimental ([#849](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/849)) ([f935d08](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/f935d08e823ddf199ad93974b7ef4df616c5d436))
+* support metadata in errors in OFREP ([#1203](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1203)) ([ce37b6a](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/ce37b6adcdc9fca0af386eece00c580542cf7b4b))
+* support relative baseUrls ([#950](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/950)) ([ceb42cb](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/ceb42cb335518963a3ca5d21f15f9b439c481f2f))
+* use native headers, optional query params ([#1003](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1003)) ([383f4f3](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/383f4f310d0eeed8a72f73ed8a539aeab46e3177))
+
 ## [1.0.1](https://github.com/open-feature/js-sdk-contrib/compare/ofrep-core-v1.0.0...ofrep-core-v1.0.1) (2025-03-12)
 
 

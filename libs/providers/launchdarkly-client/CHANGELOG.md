@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.4.0](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/compare/launchdarkly-client-provider-v0.3.2...launchdarkly-client-provider-v0.4.0) (2025-07-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* update OpenFeature SDK peer ([#798](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/798))
+
+### ✨ New Features
+
+* Accept timeout for LD waitForInitialization ([#1117](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1117)) ([be7851c](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/be7851ce59a772a32d60fcb3f2d23eac3c862087))
+* **launchdarkly-client-provider:** Add tracking API ([#1219](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1219)) ([e888d03](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/e888d03fcae56a32edbb0edb1d7e0ee594588ac4))
+* update OpenFeature SDK peer ([#798](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/798)) ([ebd16b9](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/ebd16b9630bcc6b253a7061a144e8d476cd8b586))
+
 ## [0.3.2](https://github.com/open-feature/js-sdk-contrib/compare/launchdarkly-client-provider-v0.3.1...launchdarkly-client-provider-v0.3.2) (2025-03-12)
 
 

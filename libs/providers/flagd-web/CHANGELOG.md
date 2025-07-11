@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.8.0](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/compare/flagd-web-provider-v0.7.3...flagd-web-provider-v0.8.0) (2025-07-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* allow overrides for fractional seed ([#870](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/870))
+* update OpenFeature SDK peer ([#798](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/798))
+* use new eval/sync protos (requires flagd v0.7.3+)  ([#762](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/762))
+
+### ✨ New Features
+
+* Add interceptors to flagd options. ([#894](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/894)) ([878b7b6](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/878b7b6e11853a8dcc2952e5767b7d275de72313))
+* allow overrides for fractional seed ([#870](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/870)) ([6c376b2](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/6c376b2f525be04c15b5c3bd32d89cc9c4c66729))
+* Change fractional custom op from percentage-based to relative weighting. [#946](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/946) ([#954](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/954)) ([0e9bc84](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/0e9bc842cf09de12e8445dcb4e0e8b3623c66099))
+* **flagd:** add flag metadata ([#1151](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1151)) ([b1c6d23](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/b1c6d235565f6cce02519d7c08bb6ad2dd791332))
+* update OpenFeature SDK peer ([#798](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/798)) ([ebd16b9](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/ebd16b9630bcc6b253a7061a144e8d476cd8b586))
+* use new eval/sync protos (requires flagd v0.7.3+)  ([#762](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/762)) ([4da9deb](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/4da9deb48c6bd0c106b176fc7e3730cf50e60b6d))
+* use updated proto ([#773](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/773)) ([437bbe4](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/437bbe4334ef8104d27bb40e9c109164f2a25ca5))
+
 ## [0.7.3](https://github.com/open-feature/js-sdk-contrib/compare/flagd-web-provider-v0.7.2...flagd-web-provider-v0.7.3) (2025-03-19)
 
 

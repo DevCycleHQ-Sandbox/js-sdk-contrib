@@ -1,5 +1,30 @@
 # Changelog
 
+## [0.4.0](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/compare/ofrep-web-provider-v0.3.3...ofrep-web-provider-v0.4.0) (2025-07-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* use native headers, optional query params ([#1003](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1003))
+* resolver signatures changes for easier overrides, cache exposure ([#990](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/990))
+
+### 🐛 Bug Fixes
+
+* **OFREP-Web:** typo in the readme ([#898](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/898)) ([97c5b56](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/97c5b56a4f12a5c8ef6a0b7f2127fd3c807e7485))
+* remove incorrect undici dep ([#1319](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1319)) ([6ab7f1a](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/6ab7f1abfc4a1b5b22b715359cfa56a98a414e8d))
+* **security:** update vulnerability-updates ([#1342](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1342)) ([fca83c9](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/fca83c925c6a3d19bac9d647562fd534397b376b))
+* typo in the OFREP web readme ([#865](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/865)) ([58ae6f4](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/58ae6f409c7445d7d3acf05cc078a64dfe567b32))
+* update ofrep-code ([896406a](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/896406afbf5652bf44b6f78f1dc847bbdb1d4ae9))
+
+
+### ✨ New Features
+
+* OFREP web provider ([#776](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/776)) ([9626ef4](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/9626ef43ae8f5252219b3a9bff51b83c4c5e6230))
+* resolver signatures changes for easier overrides, cache exposure ([#990](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/990)) ([deb67c1](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/deb67c15d043ae0c7cf545ef15c6bb641067d105))
+* support metadata in errors in OFREP ([#1203](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1203)) ([ce37b6a](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/ce37b6adcdc9fca0af386eece00c580542cf7b4b))
+* support relative baseUrls ([#950](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/950)) ([ceb42cb](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/ceb42cb335518963a3ca5d21f15f9b439c481f2f))
+* use native headers, optional query params ([#1003](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1003)) ([383f4f3](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/383f4f310d0eeed8a72f73ed8a539aeab46e3177))
+
 ## [0.3.3](https://github.com/open-feature/js-sdk-contrib/compare/ofrep-web-provider-v0.3.2...ofrep-web-provider-v0.3.3) (2025-06-23)
 
 

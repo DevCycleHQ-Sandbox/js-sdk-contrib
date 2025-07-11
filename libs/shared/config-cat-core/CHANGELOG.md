@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.2.0](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/compare/config-cat-core-v0.1.1...config-cat-core-v0.2.0) (2025-07-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* implement config cat web provider ([#918](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/918))
+
+### 🐛 Bug Fixes
+
+* **config-cat:** Forward default value to underlying client ([#1214](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1214)) ([9d14173](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/9d14173cf08da3030fc58fea8786b24bafd80403))
+* correct openfeature core peer version ([9753545](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/9753545cd9bbc647d06ab2cdfeda52cf37550c63))
+* **security:** update dependency configcat-common to v9.4.0 ([#1348](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1348)) ([601e7de](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/601e7de19948bc826778a076f27b46a8cb1fabca))
+* **security:** update vulnerability-updates ([#1342](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1342)) ([fca83c9](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/fca83c925c6a3d19bac9d647562fd534397b376b))
+
+
+### ✨ New Features
+
+* implement config cat web provider ([#918](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/918)) ([e280014](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/e280014f8998dd2e5f2b7700f0d24842eeafab5f))
+
 ## [0.1.1](https://github.com/open-feature/js-sdk-contrib/compare/config-cat-core-v0.1.0...config-cat-core-v0.1.1) (2025-03-12)
 
 

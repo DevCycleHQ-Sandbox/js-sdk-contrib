@@ -1,5 +1,30 @@
 # Changelog
 
+## [0.8.0](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/compare/config-cat-provider-v0.7.6...config-cat-provider-v0.8.0) (2025-07-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* implement config cat web provider ([#918](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/918))
+* update OpenFeature SDK peer ([#798](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/798))
+* Allow ConfigCat provider to be used in server applications ([#796](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/796))
+
+### 🐛 Bug Fixes
+
+* Allow ConfigCat provider to be used in server applications ([#796](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/796)) ([190946f](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/190946ff83ede64f513d43a1791cc4dc274b0d37))
+* **config-cat:** Forward default value to underlying client ([#1214](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1214)) ([9d14173](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/9d14173cf08da3030fc58fea8786b24bafd80403))
+* **config-cat:** remove event emitter type import from config-cat ([#830](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/830)) ([1c76f63](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/1c76f63db0c8992325ac645d308e90337529e049))
+* **config-cat:** Revise readme ([#1054](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1054)) ([7e1dd72](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/7e1dd72a1450a9982b340afda62d34379d1b3f16))
+* **config-cat:** Rework error reporting ([#1242](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1242)) ([0425619](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/04256197bf6e7da70afd4ac1c31bdaf55ce4b789))
+* **deps:** update dependency configcat-js to v9 ([#664](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/664)) ([6fdf552](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/6fdf55256cc3238fdeb9bd2bf0cde0bf494a78f9))
+* **security:** update dependency configcat-common to v9.4.0 ([#1348](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1348)) ([601e7de](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/601e7de19948bc826778a076f27b46a8cb1fabca))
+
+
+### ✨ New Features
+
+* implement config cat web provider ([#918](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/918)) ([e280014](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/e280014f8998dd2e5f2b7700f0d24842eeafab5f))
+* update OpenFeature SDK peer ([#798](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/798)) ([ebd16b9](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/ebd16b9630bcc6b253a7061a144e8d476cd8b586))
+
 ## [0.7.6](https://github.com/open-feature/js-sdk-contrib/compare/config-cat-provider-v0.7.5...config-cat-provider-v0.7.6) (2025-07-04)
 
 

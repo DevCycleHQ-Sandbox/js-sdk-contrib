@@ -1,5 +1,32 @@
 # Changelog
 
+## [0.14.0](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/compare/flagd-provider-v0.13.3...flagd-provider-v0.14.0) (2025-07-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* allow overrides for fractional seed ([#870](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/870))
+* update OpenFeature SDK peer ([#798](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/798))
+* use new eval/sync protos (requires flagd v0.7.3+)  ([#762](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/762))
+
+### 🐛 Bug Fixes
+
+* **deps:** update dependency @openfeature/flagd-core to ~0.2.0 ([#880](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/880)) ([f15909f](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/f15909ff6fb32fd423233ad77d57f21b265ec61a))
+* init in-process error, throw on invalid rules ([#767](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/767)) ([e9f9e74](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/e9f9e74d66e9f8666eebb8d06141fce713c7914c))
+
+
+### ✨ New Features
+
+* add offline mode file path env ([#751](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/751)) ([4ff73e7](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/4ff73e787693cd2e783200e6c165352a2906185b))
+* allow overrides for fractional seed ([#870](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/870)) ([6c376b2](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/6c376b2f525be04c15b5c3bd32d89cc9c4c66729))
+* Change fractional custom op from percentage-based to relative weighting. [#946](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/946) ([#954](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/954)) ([0e9bc84](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/0e9bc842cf09de12e8445dcb4e0e8b3623c66099))
+* Default port to 8015 if in-process resolver is used. [#936](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/936) ([#937](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/937)) ([53c4077](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/53c4077f84a1976d69c3846a0049619a1dfa6607))
+* **flagd:** add flag metadata ([#1151](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1151)) ([b1c6d23](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/b1c6d235565f6cce02519d7c08bb6ad2dd791332))
+* support proxy routing via gRPC default_authority ([#1202](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1202)) ([4e0db2a](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/4e0db2abda828151603ab943c0046536c8d2aa8d))
+* update OpenFeature SDK peer ([#798](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/798)) ([ebd16b9](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/ebd16b9630bcc6b253a7061a144e8d476cd8b586))
+* use new eval/sync protos (requires flagd v0.7.3+)  ([#762](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/762)) ([4da9deb](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/4da9deb48c6bd0c106b176fc7e3730cf50e60b6d))
+* use updated proto ([#770](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/770)) ([5405af5](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/5405af57d0ecaa64796dc87c90e98d83fe246e6c))
+
 ## [0.13.3](https://github.com/open-feature/js-sdk-contrib/compare/flagd-provider-v0.13.2...flagd-provider-v0.13.3) (2025-02-07)
 
 

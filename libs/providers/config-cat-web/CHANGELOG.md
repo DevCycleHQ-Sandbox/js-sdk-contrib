@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.2.0](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/compare/config-cat-web-provider-v0.1.6...config-cat-web-provider-v0.2.0) (2025-07-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* implement config cat web provider ([#918](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/918))
+
+### 🐛 Bug Fixes
+
+* **config-cat-web:** Fix code examples in README.md ([#1050](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1050)) ([0b6179b](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/0b6179b9cb16cce592be6c2fbe86dbacce5adc1f))
+* **config-cat-web:** Update dependency configcat-js-ssr to v8.4.2 ([#1041](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1041)) ([55e554d](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/55e554d9fc9966d7d2b364da4776c478a2ba9bb1))
+* **config-cat:** Forward default value to underlying client ([#1214](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1214)) ([9d14173](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/9d14173cf08da3030fc58fea8786b24bafd80403))
+* **config-cat:** Revise readme ([#1054](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1054)) ([7e1dd72](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/7e1dd72a1450a9982b340afda62d34379d1b3f16))
+* **config-cat:** Rework error reporting ([#1242](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1242)) ([0425619](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/04256197bf6e7da70afd4ac1c31bdaf55ce4b789))
+
+
+### ✨ New Features
+
+* implement config cat web provider ([#918](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/918)) ([e280014](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/e280014f8998dd2e5f2b7700f0d24842eeafab5f))
+
 ## [0.1.6](https://github.com/open-feature/js-sdk-contrib/compare/config-cat-web-provider-v0.1.5...config-cat-web-provider-v0.1.6) (2025-04-09)
 
 

@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.3.0](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/compare/ofrep-provider-v0.2.1...ofrep-provider-v0.3.0) (2025-07-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* use native headers, optional query params ([#1003](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1003))
+
+### ✨ New Features
+
+* implement OFREP server provider ([#817](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/817)) ([5d9f5ff](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/5d9f5ffa3cebbf54f52f215ccf135edf3ab4cc87))
+* support metadata in errors in OFREP ([#1203](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1203)) ([ce37b6a](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/ce37b6adcdc9fca0af386eece00c580542cf7b4b))
+* use native headers, optional query params ([#1003](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1003)) ([383f4f3](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/383f4f310d0eeed8a72f73ed8a539aeab46e3177))
+
 ## [0.2.1](https://github.com/open-feature/js-sdk-contrib/compare/ofrep-provider-v0.2.0...ofrep-provider-v0.2.1) (2025-02-13)
 
 

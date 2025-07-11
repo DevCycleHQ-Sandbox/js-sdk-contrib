@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.4.0](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/compare/env-var-provider-v0.3.1...env-var-provider-v0.4.0) (2025-07-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* update OpenFeature SDK peer ([#798](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/798))
+
+### 🐛 Bug Fixes
+
+* **env-var:** set runs on property to server ([#981](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/981)) ([919761d](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/919761d8926fc102c84b11288d4c6d1ff3e3fc05))
+
+
+### ✨ New Features
+
+* update OpenFeature SDK peer ([#798](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/798)) ([ebd16b9](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/ebd16b9630bcc6b253a7061a144e8d476cd8b586))
+
 ## [0.3.1](https://github.com/open-feature/js-sdk-contrib/compare/env-var-provider-v0.3.0...env-var-provider-v0.3.1) (2024-07-10)
 
 

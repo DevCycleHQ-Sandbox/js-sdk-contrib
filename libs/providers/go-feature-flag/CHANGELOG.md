@@ -1,5 +1,31 @@
 # Changelog
 
+## [0.8.0](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/compare/go-feature-flag-provider-v0.7.8...go-feature-flag-provider-v0.8.0) (2025-07-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* update OpenFeature SDK peer ([#798](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/798))
+
+### 🐛 Bug Fixes
+
+* **deps:** update dependency axios to v1.10.0 ([#1332](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1332)) ([e501475](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/e5014755369e690fa5fee32bc40978f813fa17d5))
+* **deps:** update dependency axios to v1.8.2 [security] ([#1222](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1222)) ([ed50496](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/ed504968d93c77d4e049ad11d0eb55fcdbc8ff83))
+* **deps:** update dependency axios to v1.8.4 ([#1273](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1273)) ([18a0cb9](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/18a0cb906a0c7e437b52f4645538a859d817ae18))
+* **deps:** update dependency axios to v1.9.0 ([#1314](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1314)) ([1ffe54a](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/1ffe54af81f2db5ec6918432b6e39968ff965127))
+* **gofeatureflag:** Error for configurationHasChanged when slash was missing in endpoint ([#1229](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1229)) ([ce6a8e1](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/ce6a8e1a800604b263ee76b305f5ca801aa2641d))
+* **gofeatureflag:** Error when receiving an empty string errorCode ([#973](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/973)) ([e17b99e](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/e17b99ec7328e35760175ed100a2e13be20079b7))
+* **gofeatureflag:** remove NodeJS.timeout because it fails eslint ([#961](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/961)) ([e448577](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/e448577b6bf2a625a2844ccc326c6c05e6041299))
+
+
+### ✨ New Features
+
+* **go-feature-flag:** Support exporter metadata during evaluation ([#1186](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1186)) ([0dfffdc](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/0dfffdc3167312b036034dd450b8b23b92d8e132))
+* **go-feature-flag:** Support exporter metadata in web and server providers ([#1183](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1183)) ([0edf3f5](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/0edf3f55161878684ffe809fbde8ad6fa379c4b0))
+* **gofeatureflag:** added cache option ([#1284](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1284)) ([7083655](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/7083655c78eed957502f46dc202522a604024886))
+* **gofeatureflag:** Clear cache if configuration changes + provider refactoring ([#947](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/947)) ([338123f](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/338123fadb3e421d9fce3eaf9a7a7ecbbd5961ea))
+* update OpenFeature SDK peer ([#798](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/798)) ([ebd16b9](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/ebd16b9630bcc6b253a7061a144e8d476cd8b586))
+
 ## [0.7.8](https://github.com/open-feature/js-sdk-contrib/compare/go-feature-flag-provider-v0.7.7...go-feature-flag-provider-v0.7.8) (2025-05-26)
 
 

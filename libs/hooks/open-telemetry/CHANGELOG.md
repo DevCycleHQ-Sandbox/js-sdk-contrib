@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.5.0](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/compare/open-telemetry-hooks-v0.4.0...open-telemetry-hooks-v0.5.0) (2025-07-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* update OpenFeature SDK peer ([#798](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/798))
+
+### ✨ New Features
+
+* update OpenFeature SDK peer ([#798](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/798)) ([ebd16b9](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/ebd16b9630bcc6b253a7061a144e8d476cd8b586))
+
 ## [0.4.0](https://github.com/open-feature/js-sdk-contrib/compare/open-telemetry-hooks-v0.3.0...open-telemetry-hooks-v0.4.0) (2024-03-25)
 
 

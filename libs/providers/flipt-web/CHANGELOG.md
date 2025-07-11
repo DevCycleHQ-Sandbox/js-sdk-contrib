@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.1.6](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/compare/flipt-web-provider-v0.1.5...flipt-web-provider-v0.1.6) (2025-07-11)
+
+
+### 🐛 Bug Fixes
+
+* **deps:** update dependency @flipt-io/flipt-client-browser to ^0.0.18 ([#1000](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1000)) ([27af7fe](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/27af7fe2abaf113d38078304fbb457333104ba0f))
+* **deps:** update dependency @flipt-io/flipt-client-browser to ^0.0.19 ([#1038](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1038)) ([46f69d3](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/46f69d3ccbbeb76f7ae207bc96ac23a99c241465))
+* **deps:** update dependency @flipt-io/flipt-client-js to v0.0.2 ([#1272](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1272)) ([d7f8746](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/d7f8746434f58333a2458418c35749c125932369))
+* **deps:** update dependency @flipt-io/flipt-client-js to v0.0.6 ([#1309](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1309)) ([d3ad93e](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/d3ad93e3a92340ea405ddeeb9bb084cd58f0b552))
+* **deps:** update dependency @flipt-io/flipt-client-js to v0.2.0 ([#1331](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1331)) ([ddbde61](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/ddbde614e987093b71a079d3acffa76874cf87c8))
+* remove incorrect undici dep ([#1319](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1319)) ([6ab7f1a](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/6ab7f1abfc4a1b5b22b715359cfa56a98a414e8d))
+* Removed incorrect string case format from the options.authentica… ([#1209](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1209)) ([dbd2326](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/dbd23264e4d6408dd9d8b4bd62e0a2735daea1f7))
+
+
+### ✨ New Features
+
+* Add Flipt web provider ([#879](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/879)) ([1bd91ff](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/1bd91ffb8a800be7f2c6c83cc6c0aba025739768))
+* **flipt-web:** update types to match flipt-client-js ([#1303](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1303)) ([9e8496a](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/9e8496a384e65bee8d6cb096bdfaa909e2bfa311))
+
 ## [0.1.5](https://github.com/open-feature/js-sdk-contrib/compare/flipt-web-provider-v0.1.4...flipt-web-provider-v0.1.5) (2025-06-06)
 
 

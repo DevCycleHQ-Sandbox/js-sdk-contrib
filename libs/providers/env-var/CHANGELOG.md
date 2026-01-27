@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.2](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/compare/env-var-provider-v0.3.1...env-var-provider-v0.3.2) (2026-01-27)
+
+
+### 🐛 Bug Fixes
+
+* **env-var:** set runs on property to server ([#981](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/981)) ([919761d](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/919761d8926fc102c84b11288d4c6d1ff3e3fc05))
+
 ## [0.3.1](https://github.com/open-feature/js-sdk-contrib/compare/env-var-provider-v0.3.0...env-var-provider-v0.3.1) (2024-07-10)
 
 

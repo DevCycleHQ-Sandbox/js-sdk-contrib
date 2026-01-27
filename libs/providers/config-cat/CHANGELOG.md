@@ -1,5 +1,26 @@
 # Changelog
 
+## [0.9.0](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/compare/config-cat-provider-v0.8.0...config-cat-provider-v0.9.0) (2026-01-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update the ConfigCat core library to v9
+* implement config cat web provider ([#918](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/918))
+
+### 🐛 Bug Fixes
+
+* **config-cat:** Forward default value to underlying client ([#1214](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1214)) ([9d14173](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/9d14173cf08da3030fc58fea8786b24bafd80403))
+* **config-cat:** Revise readme ([#1054](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1054)) ([7e1dd72](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/7e1dd72a1450a9982b340afda62d34379d1b3f16))
+* **config-cat:** Rework error reporting ([#1242](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1242)) ([0425619](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/04256197bf6e7da70afd4ac1c31bdaf55ce4b789))
+* regenerate the package.json lockfile ([#1379](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1379)) ([e921f24](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/e921f24a8b890fa88858fdd9b713316fd9f53f25))
+
+
+### ✨ New Features
+
+* implement config cat web provider ([#918](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/918)) ([e280014](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/e280014f8998dd2e5f2b7700f0d24842eeafab5f))
+* Update the ConfigCat core library to v9 ([601e7de](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/601e7de19948bc826778a076f27b46a8cb1fabca))
+
 ## [0.8.0](https://github.com/open-feature/js-sdk-contrib/compare/config-cat-provider-v0.7.6...config-cat-provider-v0.8.0) (2025-09-18)
 
 ### ⚠ BREAKING CHANGES

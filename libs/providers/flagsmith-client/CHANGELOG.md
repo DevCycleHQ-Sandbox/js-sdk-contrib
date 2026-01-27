@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.2.0](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/compare/flagsmith-client-provider-v0.1.3...flagsmith-client-provider-v0.2.0) (2026-01-27)
+
+
+### 🐛 Bug Fixes
+
+* flagsmith project paths ([#862](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/862)) ([d423647](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/d423647b43e4762d901d9894900cf33c314ae9fe))
+
+
+### ✨ New Features
+
+* Add Flagsmith Provider ([#836](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/836)) ([dc6e77f](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/dc6e77f777bdff920d47fde2716f7098a9a767eb))
+* **flagsmith:** upgrade-provider-to-latest-flagsmith-client-version ([35d4653](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/35d46530e3f25b254f5e078dab51f98439a4d095))
+
 ## [0.1.3](https://github.com/open-feature/js-sdk-contrib/compare/flagsmith-client-provider-v0.1.2...flagsmith-client-provider-v0.1.3) (2025-03-17)
 
 

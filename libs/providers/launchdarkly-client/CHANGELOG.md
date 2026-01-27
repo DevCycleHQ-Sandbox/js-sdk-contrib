@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.3.4](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/compare/launchdarkly-client-provider-v0.3.3...launchdarkly-client-provider-v0.3.4) (2026-01-27)
+
+
+### 🐛 Bug Fixes
+
+* **launchdarkly-client--README.md:** fix typo - options -&gt; ldOptions ([#1367](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1367)) ([9a7ef4f](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/9a7ef4fe1a8a0afef4358589cf066fb7b4ec1c0d))
+
+
+### ✨ New Features
+
+* Accept timeout for LD waitForInitialization ([#1117](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1117)) ([be7851c](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/be7851ce59a772a32d60fcb3f2d23eac3c862087))
+* Add wrapper information to the LaunchDarkly client-side provider. ([#1368](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1368)) ([ef2869f](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/ef2869f63668dd2c9eefd5f216895c7c485a60aa))
+* **launchdarkly-client-provider:** Add tracking API ([#1219](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1219)) ([e888d03](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/e888d03fcae56a32edbb0edb1d7e0ee594588ac4))
+
 ## [0.3.3](https://github.com/open-feature/js-sdk-contrib/compare/launchdarkly-client-provider-v0.3.2...launchdarkly-client-provider-v0.3.3) (2025-09-14)
 
 

@@ -1,5 +1,41 @@
 # Changelog
 
+## [2.0.0](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/compare/go-feature-flag-provider-v1.1.0...go-feature-flag-provider-v2.0.0) (2026-01-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* **go-feature-flag:** Introduce in-process evaluation + tracking ([#1365](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1365))
+
+### 🐛 Bug Fixes
+
+* **deps:** update dependency axios to v1.10.0 ([#1332](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1332)) ([e501475](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/e5014755369e690fa5fee32bc40978f813fa17d5))
+* **deps:** update dependency axios to v1.8.2 [security] ([#1222](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1222)) ([ed50496](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/ed504968d93c77d4e049ad11d0eb55fcdbc8ff83))
+* **deps:** update dependency axios to v1.8.4 ([#1273](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1273)) ([18a0cb9](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/18a0cb906a0c7e437b52f4645538a859d817ae18))
+* **deps:** update dependency axios to v1.9.0 ([#1314](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1314)) ([1ffe54a](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/1ffe54af81f2db5ec6918432b6e39968ff965127))
+* **go-feature-flag:** error when packaging the WASM file ([#1432](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1432)) ([f5075c8](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/f5075c8b80e73b4afb8b2b2dcc43c80328764ff8))
+* **go-feature-flag:** Move wasm file outside of src ([#1440](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1440)) ([a9ad08d](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/a9ad08d7e1e9810bdb6121ef8b113f6d1cdba3ca))
+* **go-feature-flag:** OnClose method fix ([#1435](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1435)) ([1731ab6](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/1731ab64737ff551482c3b6278364e1559aa00e2))
+* **gofeatureflag:** Error for configurationHasChanged when slash was missing in endpoint ([#1229](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1229)) ([ce6a8e1](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/ce6a8e1a800604b263ee76b305f5ca801aa2641d))
+* **gofeatureflag:** Error when receiving an empty string errorCode ([#973](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/973)) ([e17b99e](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/e17b99ec7328e35760175ed100a2e13be20079b7))
+* **gofeatureflag:** remove NodeJS.timeout because it fails eslint ([#961](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/961)) ([e448577](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/e448577b6bf2a625a2844ccc326c6c05e6041299))
+* **GOFF:** Adding missing exports for GO Feature Flag server Provider ([#1417](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1417)) ([59b26dc](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/59b26dce5468719fe6068deed02711e567621ae1))
+* **goff:** change the way to load wasm module ([#1425](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1425)) ([f0da3af](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/f0da3af937a8370b14fab1d8db395779747f20f5))
+* **GOFF:** ensure that wasm module is part of the package ([#1422](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1422)) ([2c44901](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/2c449014c29ecb961e7e7d13c039e468be6b5d63))
+* **goff:** fix issue in package stage ([#1428](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1428)) ([412856a](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/412856a366ade55535ce9ddd7a7da7215c92aeb9))
+* **security:** update dependency axios to v1.11.0 [security] ([#1359](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1359)) ([b9cbaf8](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/b9cbaf8b519164ca34243c1b7485bb06d364a22e))
+* **security:** update dependency axios to v1.12.0 [security] ([#1373](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1373)) ([523d2de](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/523d2dec2310a6954f7926dbb3d5d07258c2862c))
+
+
+### ✨ New Features
+
+* **go-feature-flag:** add wasmBinaryPath option for custom WASM location ([#1448](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1448)) ([ad4a573](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/ad4a57365e09903026c65f7533cfdf58d235a5ce))
+* **go-feature-flag:** Introduce in-process evaluation + tracking ([#1365](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1365)) ([bfb10a3](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/bfb10a377e989029a98c3a82836a7eefd0738606))
+* **go-feature-flag:** Support exporter metadata during evaluation ([#1186](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1186)) ([0dfffdc](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/0dfffdc3167312b036034dd450b8b23b92d8e132))
+* **go-feature-flag:** Support exporter metadata in web and server providers ([#1183](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1183)) ([0edf3f5](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/0edf3f55161878684ffe809fbde8ad6fa379c4b0))
+* **gofeatureflag:** added cache option ([#1284](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1284)) ([7083655](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/7083655c78eed957502f46dc202522a604024886))
+* **gofeatureflag:** Clear cache if configuration changes + provider refactoring ([#947](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/947)) ([338123f](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/338123fadb3e421d9fce3eaf9a7a7ecbbd5961ea))
+
 ## [1.1.0](https://github.com/open-feature/js-sdk-contrib/compare/go-feature-flag-provider-v1.0.5...go-feature-flag-provider-v1.1.0) (2026-01-13)
 
 

@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.5](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/compare/flipt-provider-v0.1.4...flipt-provider-v0.1.5) (2026-01-27)
+
+
+### 🐛 Bug Fixes
+
+* **flipt:** add custom headers support to Flipt provider ([#1444](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1444)) ([64ad3fd](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/64ad3fd7802290f366d2666905733fb0956c16a5))
+* **flipt:** return the correct default value when provided in Flipt ([#1052](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/issues/1052)) ([28bffa5](https://github.com/DevCycleHQ-Sandbox/js-sdk-contrib/commit/28bffa5f91278db0e1f4b4361d483403b626e2b9))
+
 ## [0.1.4](https://github.com/open-feature/js-sdk-contrib/compare/flipt-provider-v0.1.3...flipt-provider-v0.1.4) (2026-01-07)
 
 
